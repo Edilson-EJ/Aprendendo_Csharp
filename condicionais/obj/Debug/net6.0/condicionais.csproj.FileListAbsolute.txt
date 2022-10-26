@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\bin\Debug\net6.0\condicionais.exe
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\bin\Debug\net6.0\condicionais.deps.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\bin\Debug\net6.0\condicionais.runtimeconfig.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\bin\Debug\net6.0\condicionais.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\bin\Debug\net6.0\condicionais.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\refint\condicionais.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\condicionais.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\condicionais\obj\Debug\net6.0\ref\condicionais.dll
