@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\bin\Debug\net6.0\comandos_repetição.exe
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\bin\Debug\net6.0\comandos_repetição.deps.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\bin\Debug\net6.0\comandos_repetição.runtimeconfig.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\bin\Debug\net6.0\comandos_repetição.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\bin\Debug\net6.0\comandos_repetição.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\refint\comandos_repetição.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\comandos_repetição.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\comandos_repetição\obj\Debug\net6.0\ref\comandos_repetição.dll
