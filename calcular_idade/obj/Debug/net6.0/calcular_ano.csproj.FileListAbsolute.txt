@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\bin\Debug\net6.0\calcular_ano.exe
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\bin\Debug\net6.0\calcular_ano.deps.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\bin\Debug\net6.0\calcular_ano.runtimeconfig.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\bin\Debug\net6.0\calcular_ano.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\bin\Debug\net6.0\calcular_ano.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\refint\calcular_ano.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\calcular_ano.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\calcular_idade\obj\Debug\net6.0\ref\calcular_ano.dll

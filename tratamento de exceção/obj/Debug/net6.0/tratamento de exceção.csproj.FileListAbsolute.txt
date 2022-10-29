@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\bin\Debug\net6.0\tratamento de exceção.exe
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\bin\Debug\net6.0\tratamento de exceção.deps.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\bin\Debug\net6.0\tratamento de exceção.runtimeconfig.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\bin\Debug\net6.0\tratamento de exceção.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\bin\Debug\net6.0\tratamento de exceção.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\refint\tratamento de exceção.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\tratamento de exceção.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\tratamento de exceção\obj\Debug\net6.0\ref\tratamento de exceção.dll
