@@ -3,3 +3,13 @@ C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net
 C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
 C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
 C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\bin\Debug\net6.0\classes.exe
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\bin\Debug\net6.0\classes.deps.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\bin\Debug\net6.0\classes.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\bin\Debug\net6.0\classes.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\refint\classes.dll
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.pdb
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\Programação-EJ\C#\aprendendo c#\classes\obj\Debug\net6.0\ref\classes.dll
